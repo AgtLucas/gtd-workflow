@@ -2,3 +2,4 @@
 
 * OmniFocus;
 * Things;
+* Asana;
