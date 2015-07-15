@@ -3,3 +3,4 @@
 * OmniFocus;
 * Things;
 * Asana;
+* Trello;
