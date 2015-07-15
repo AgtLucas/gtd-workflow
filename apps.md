@@ -1,6 +1,6 @@
 ## Apps
 
-* OmniFocus;
+* ~~OmniFocus;~~
 * Things;
 * Asana;
 * Trello;
