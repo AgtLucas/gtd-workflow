@@ -5,3 +5,4 @@
 * ~~Asana;~~
 * Trello;
 * TodoIst;
+* Notes;
