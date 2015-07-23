@@ -4,6 +4,6 @@
 * ~~Things;~~
 * ~~Asana;~~
 * Trello;
-* TodoIst;
+* ~~TodoIst~~;
 * Notes;
 * Evernote;
